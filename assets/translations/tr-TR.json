@@ -1,0 +1,22 @@
+{
+  "drawer": {
+    "theme": "Dark Modu",
+    "home": "Anasayfa",
+    "favorite": "Favoriler",
+    "workflow": "İş Akışı",
+    "updates": "Güncellemeler",
+    "appLanguage": {
+      "text": "Dil",
+      "languages": {
+        "tr": "Türkçe",
+        "en": "İngilizce"
+      }
+    }
+  },
+  "userPage": {
+    "navigationText": "Kullanıcı Sayfası"
+  },
+  "userDetailPage": {
+    "navigationText": "Kullanıcı Detay Sayfası"
+  }
+}

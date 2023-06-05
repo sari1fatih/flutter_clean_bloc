@@ -1,0 +1,22 @@
+{
+  "drawer": {
+    "theme": "Dark Mode",
+    "home": "Home",
+    "favorite": "Favorite",
+    "workflow": "Workflow",
+    "updates": "Updates",
+    "appLanguage": {
+      "text": "Language",
+      "languages": {
+        "tr": "Turkish",
+        "en": "English"
+      }
+    }
+  },
+  "userPage": {
+    "navigationText": "User Page"
+  },
+  "userDetailPage": {
+    "navigationText": "User Detail Page"
+  }
+}
